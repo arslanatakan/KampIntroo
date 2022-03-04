@@ -8,6 +8,7 @@ namespace ClassIntro
         {
             string adi = "Engin";
             int yas = 36;
+            string adi2 = "Atakan";
 
 
 
