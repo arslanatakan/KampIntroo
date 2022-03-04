@@ -8,12 +8,6 @@ namespace ClassIntro
         {
             string adi = "Engin";
             int yas = 36;
-            string adi2 = "Atakan";
-            string adi3 = "Mahmut";
-            string adi4 = "Mehmet";
-
-
-
 
             Kurs kurs1 = new Kurs();
             kurs1.KursAdi = "C#";
