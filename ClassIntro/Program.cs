@@ -9,6 +9,9 @@ namespace ClassIntro
             string adi = "Engin";
             int yas = 36;
             string adi2 = "Atakan";
+            string adi3 = "Mahmut";
+            string adi4 = "Mehmet";
+
 
 
 
@@ -30,7 +33,7 @@ namespace ClassIntro
 
             //Console.WriteLine(kurs1.KursAdi+" : "+kurs1.Egitmen);
 
-            Kurs[] kurslar = new Kurs[] {kurs1, kurs2, kurs3 };
+            Kurs[] kurslar = new Kurs[] { kurs1, kurs2, kurs3 };
 
             foreach (var kurs in kurslar)
             {
@@ -45,7 +48,7 @@ namespace ClassIntro
 
     class Kurs
     {
-        public string  KursAdi { get; set; }
+        public string KursAdi { get; set; }
         public string Egitmen { get; set; }
         public int IzlenmeOrani { get; set; }
 
