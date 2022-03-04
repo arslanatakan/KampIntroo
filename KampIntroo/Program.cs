@@ -11,6 +11,7 @@ namespace KampIntroo
             int ogrenciSayisi = 32000;
             double faizOrani = 1.45;
             bool sistemeGirisYapmisMi = true;
+            Console.WriteLine("git deneme 04.03.2022/15:45");
 
             if (sistemeGirisYapmisMi==true)
             {
